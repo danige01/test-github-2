@@ -2,8 +2,4 @@
 
 Hola!!!
 
-Simulación de Fork en repositorio
-
-Conflicto Merge
-
-asdf
+Simulación de Fork en repositorio (IAW-22 by Dani)
